@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { NavController } from '@angular';
+import { NavController } from 'ionic-angular';
 import { SearchpageComponent } from '../searchpage/searchpage.component';
 
 
@@ -20,3 +20,4 @@ export class HomeComponent implements OnInit {
   }
 
 }
+
